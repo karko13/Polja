@@ -1,0 +1,7 @@
+C:\Users\rafob\source\repos\Polja\bin\Debug\Polja.exe.config
+C:\Users\rafob\source\repos\Polja\bin\Debug\Polja.exe
+C:\Users\rafob\source\repos\Polja\bin\Debug\Polja.pdb
+C:\Users\rafob\source\repos\Polja\obj\Debug\Polja.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\Polja\obj\Debug\Polja.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\Polja\obj\Debug\Polja.exe
+C:\Users\rafob\source\repos\Polja\obj\Debug\Polja.pdb
